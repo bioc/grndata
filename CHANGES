@@ -1,0 +1,8 @@
+grndata_0.99.0
+      - First version to Bioconductor
+grndata_0.99.1
+      - Adding function to easily load a datasource
+grndata_0.99.2
+      - Adding toy datasource
+grndata_0.99.3
+      - Adding Availabledata variable
